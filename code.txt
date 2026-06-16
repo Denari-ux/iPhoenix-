@@ -1,0 +1,12 @@
+iPhoenix/
+├── iphoenix.py          # Interface gráfica principal (Tkinter)
+├── core/
+│   ├── device_detect.py  # Detecção de modelo/iOS via USB
+│   ├── checkm8_bypass.py # Bypass via checkra1n/SSHRD (A7-A11)
+│   ├── recovery_bypass.py# Recovery mode techniques (A12+)
+│   ├── mdm_bypass.py     # MDM profile removal
+│   └── utils.py          # Utilitários
+├── assets/
+│   └── icon.png
+├── build.sh              # Script para gerar executável
+└── requirements.txt
