@@ -6,7 +6,8 @@
 
 > ⚠️ **Aviso Legal**: Esta ferramenta é destinada **EXCLUSIVAMENTE** para profissionais de segurança cibernética realizando testes de penetração autorizados em dispositivos de sua propriedade ou com permissão explícita do proprietário. O uso não autorizado é ilegal e viola leis de direitos digitais (DMCA, CFAA, etc.).
 
----
+<img width="902" height="682" alt="iphoenix" src="https://github.com/user-attachments/assets/1e2b43a3-0377-475a-ae25-7b6471ccce2d" />
+
 
 ## 📋 **Índice**
 
